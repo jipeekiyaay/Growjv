@@ -1,2 +1,2 @@
-# portfolio
-school and individual projects showcase
+# growjv
+school and individual projects showcase in Java
